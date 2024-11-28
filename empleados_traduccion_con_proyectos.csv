@@ -1,0 +1,301 @@
+Número de Empleado,Nombre,Apellidos,Idiomas que Traduce,Calificación en Proyectos,Proyectos en Junio,Proyectos en Julio,Proyectos en Agosto,Proyectos en Septiembre,Proyectos en Octubre,Proyectos en Noviembre
+1,Danielle,Johnson,"Portugués, Francés",Medio,8,4,8,3,7,7
+2,Joshua,Walker,"Chino, Portugués, Japonés, Italiano",Alto,2,8,0,0,4,7
+3,Jill,Rhodes,"Español, Portugués, Alemán",Bajo,9,8,0,4,6,3
+4,Patricia,Miller,"Árabe, Alemán",Alto,4,3,9,0,6,3
+5,Robert,Johnson,Español,Alto,1,0,4,5,3,0
+6,Jeffery,Wagner,"Español, Francés, Italiano, Chino",Alto,3,9,5,2,3,3
+7,Anthony,Gonzalez,Árabe,Bajo,9,2,9,0,9,10
+8,Debra,Gardner,Alemán,Alto,1,2,3,2,1,0
+9,Jeffrey,Lawrence,"Español, Portugués",Medio,8,3,9,4,5,2
+10,Lisa,Smith,Español,Medio,10,8,0,4,0,4
+11,Linda,Wolfe,"Portugués, Alemán, Español",Bajo,9,9,7,0,2,6
+12,Matthew,Moore,"Chino, Ruso",Bajo,0,0,0,10,2,10
+13,Susan,Rogers,"Ruso, Español",Medio,9,2,1,0,1,1
+14,Christopher,Davis,"Ruso, Español, Árabe, Inglés",Bajo,2,6,5,0,1,6
+15,Melanie,Munoz,"Ruso, Inglés, Árabe, Chino",Medio,6,4,6,10,4,8
+16,Lindsay,Blair,"Chino, Alemán, Francés, Ruso",Bajo,1,10,1,2,6,6
+17,Amanda,Dudley,Portugués,Alto,6,7,1,0,6,9
+18,Nicholas,Arnold,"Italiano, Alemán, Portugués, Inglés",Bajo,10,3,3,5,2,9
+19,Maria,Montgomery,"Japonés, Francés, Portugués, Chino",Bajo,3,9,2,3,3,0
+20,Michelle,Ray,"Inglés, Francés, Chino",Alto,7,9,9,1,1,3
+21,Janet,Williams,"Alemán, Inglés, Árabe",Alto,6,6,10,5,9,9
+22,Jeremy,Roberts,"Alemán, Italiano, Árabe",Medio,3,10,2,5,1,4
+23,Christopher,Hall,"Árabe, Español",Alto,7,3,2,0,2,7
+24,Craig,Ramirez,"Alemán, Inglés, Japonés",Alto,5,10,4,3,2,3
+25,Cynthia,Diaz,"Portugués, Ruso, Japonés",Alto,10,6,8,2,4,5
+26,Mitchell,Clark,Francés,Medio,0,9,0,7,8,4
+27,Joseph,Zuniga,"Italiano, Árabe, Inglés, Portugués",Bajo,6,5,10,6,4,9
+28,Deborah,Lynch,"Inglés, Ruso, Francés",Medio,8,3,0,0,10,5
+29,George,Daniel,"Japonés, Español",Medio,7,10,0,5,4,3
+30,Frank,Gray,"Chino, Árabe, Italiano, Japonés",Medio,3,5,5,5,10,10
+31,Veronica,Bowman,Portugués,Alto,3,3,5,6,1,1
+32,Angela,Cohen,"Árabe, Francés, Japonés, Ruso",Alto,1,4,0,3,4,9
+33,Megan,Parsons,Chino,Medio,9,9,4,2,7,7
+34,Jeremy,Johnson,Francés,Bajo,10,3,4,7,7,6
+35,Leslie,Adams,Inglés,Bajo,9,8,1,3,4,6
+36,Jason,Hahn,"Japonés, Italiano, Chino, Inglés",Alto,7,8,4,4,10,6
+37,Nancy,Edwards,Inglés,Medio,3,2,6,2,10,6
+38,Diana,Foster,"Francés, Alemán, Español",Bajo,5,1,5,0,4,4
+39,Robin,Ellis,Portugués,Alto,6,1,8,7,3,9
+40,Joseph,Wright,"Japonés, Chino, Inglés, Árabe",Alto,4,9,10,2,5,5
+41,Anna,Baker,"Inglés, Portugués, Alemán, Chino",Alto,4,1,4,7,10,4
+42,Brenda,Hurst,Chino,Bajo,6,0,2,5,6,9
+43,Reginald,Robinson,Italiano,Bajo,6,0,7,8,8,2
+44,Whitney,Hicks,"Árabe, Inglés, Portugués, Ruso",Alto,5,2,4,8,10,0
+45,Christopher,Williams,Árabe,Medio,2,5,6,7,4,9
+46,Daniel,Burton,"Chino, Ruso, Italiano",Bajo,4,10,5,4,5,4
+47,Laura,Henderson,"Japonés, Ruso, Francés",Alto,1,8,5,2,0,4
+48,Bryan,James,"Inglés, Portugués",Alto,6,7,10,7,5,7
+49,Wendy,Rice,"Francés, Árabe, Inglés, Chino",Alto,9,5,4,5,3,2
+50,Tasha,Valencia,"Alemán, Chino",Medio,4,5,10,5,9,10
+51,Alexander,Le,"Japonés, Italiano, Chino, Portugués",Bajo,7,9,1,0,4,10
+52,Erin,Herrera,"Árabe, Inglés, Japonés, Portugués",Bajo,10,7,5,1,6,8
+53,Joseph,Davidson,"Portugués, Inglés, Árabe",Medio,1,9,7,6,0,8
+54,Daniel,Graham,"Italiano, Chino, Alemán, Japonés",Medio,7,0,5,1,6,2
+55,Shawn,Mckay,"Alemán, Español",Bajo,7,7,7,1,10,10
+56,Nancy,Baker,Chino,Alto,7,5,1,10,0,8
+57,Vincent,White,"Inglés, Japonés",Alto,2,8,8,6,0,8
+58,Rita,Harrell,"Italiano, Español",Bajo,9,1,0,8,5,8
+59,Kenneth,Fowler,"Italiano, Español",Medio,10,4,5,2,8,10
+60,Chelsea,Hernandez,Japonés,Alto,6,1,10,1,1,10
+61,Kathryn,Ryan,"Español, Portugués, Alemán, Francés",Medio,4,8,4,5,5,3
+62,Kimberly,Moreno,"Alemán, Italiano",Medio,4,1,9,5,7,3
+63,Aaron,Nguyen,"Italiano, Ruso",Alto,7,2,4,2,0,3
+64,Andrew,Hickman,"Inglés, Portugués, Italiano",Bajo,0,5,9,9,10,10
+65,Natasha,Decker,"Español, Árabe, Alemán, Ruso",Medio,4,7,9,2,0,9
+66,Kyle,Brown,Japonés,Alto,2,4,2,6,2,5
+67,Natalie,Arroyo,"Árabe, Chino, Inglés",Medio,1,2,9,2,8,6
+68,Christopher,Tucker,Árabe,Alto,6,10,8,4,10,3
+69,Chad,Hodges,"Portugués, Árabe, Inglés",Bajo,2,2,3,8,9,0
+70,Katie,Anderson,"Español, Francés, Inglés",Bajo,9,8,0,5,3,6
+71,Thomas,Pierce,Inglés,Alto,1,7,9,3,6,0
+72,Joseph,Brennan,"Inglés, Árabe",Bajo,6,0,2,7,10,3
+73,Rodney,Lewis,"Italiano, Alemán",Bajo,1,1,5,4,4,3
+74,Amber,Blair,"Chino, Francés, Japonés",Medio,0,0,10,4,3,1
+75,James,Collins,"Español, Inglés, Japonés, Árabe",Alto,7,8,3,6,0,8
+76,Wanda,Santos,"Ruso, Chino",Alto,1,2,1,0,0,8
+77,Samuel,Holmes,Español,Alto,3,7,0,5,4,5
+78,David,Walker,"Chino, Japonés",Alto,3,7,1,1,3,4
+79,Matthew,Chapman,"Chino, Japonés",Alto,7,9,7,2,7,2
+80,Jerry,Robinson,"Ruso, Español, Portugués",Alto,0,8,0,9,7,9
+81,Chad,Welch,Portugués,Alto,2,3,3,6,8,6
+82,Jeremy,Whitehead,Chino,Alto,0,4,4,9,7,2
+83,Michele,Jones,"Japonés, Alemán, Portugués",Medio,5,7,10,10,8,2
+84,John,Caldwell,"Español, Inglés, Francés",Medio,2,0,2,0,10,7
+85,Jason,Anderson,"Italiano, Chino, Inglés, Alemán",Alto,0,4,0,8,2,7
+86,Selena,Duncan,"Japonés, Árabe",Medio,6,7,4,3,1,1
+87,Thomas,Mueller,Portugués,Alto,9,3,4,8,2,9
+88,Lindsey,Lee,"Árabe, Japonés, Español",Alto,9,6,1,1,8,0
+89,Collin,Jordan,Inglés,Alto,2,6,2,4,1,9
+90,Rodney,Owens,"Ruso, Español, Japonés",Alto,3,3,10,8,7,10
+91,Jessica,Nunez,"Japonés, Alemán",Alto,5,10,6,10,10,3
+92,Tracey,Garcia,"Francés, Alemán, Español, Chino",Bajo,1,9,6,6,2,2
+93,Richard,Morgan,Español,Medio,6,0,8,8,2,3
+94,Michelle,Wright,"Chino, Alemán, Árabe",Medio,4,2,6,8,8,6
+95,James,West,"Alemán, Italiano, Japonés",Bajo,9,8,5,8,9,2
+96,Robert,Ramirez,"Español, Italiano",Alto,10,6,2,10,9,4
+97,John,Leblanc,Inglés,Bajo,1,9,10,8,2,6
+98,Scott,Callahan,"Español, Italiano, Portugués, Ruso",Medio,2,7,8,5,10,0
+99,Andrea,Williams,Alemán,Alto,5,5,8,3,0,3
+100,Yvette,Huff,"Portugués, Francés, Japonés, Inglés",Bajo,1,3,0,1,10,5
+101,Tanya,House,"Italiano, Ruso",Bajo,2,8,0,4,3,0
+102,Melinda,Martin,Ruso,Medio,1,3,2,5,10,4
+103,Todd,Lewis,"Árabe, Alemán",Alto,0,6,10,8,7,8
+104,Richard,Brown,Chino,Bajo,6,4,9,6,2,3
+105,Nicholas,Galloway,"Español, Francés, Alemán, Árabe",Alto,10,8,9,7,7,7
+106,Joseph,Bowers,"Italiano, Inglés, Alemán",Bajo,6,0,0,1,1,2
+107,Spencer,Henderson,Español,Bajo,4,3,9,7,9,8
+108,Susan,Cowan,"Portugués, Alemán, Español",Bajo,6,8,10,3,6,10
+109,Angela,Higgins,Chino,Bajo,1,0,3,2,3,5
+110,Eric,Phillips,Japonés,Alto,2,0,1,1,10,4
+111,Tanya,Riley,Árabe,Medio,5,10,5,7,0,1
+112,Amy,Adkins,"Ruso, Español, Portugués, Inglés",Bajo,1,9,2,9,5,7
+113,Brian,Silva,Español,Alto,0,4,2,5,3,6
+114,Wesley,Farrell,"Ruso, Francés, Alemán, Japonés",Bajo,7,4,4,1,3,10
+115,Eric,Yu,"Ruso, Alemán, Japonés",Medio,8,8,3,8,10,4
+116,Christopher,Lopez,Español,Alto,6,7,4,0,5,10
+117,Brooke,Leonard,"Portugués, Chino",Medio,9,10,2,6,4,2
+118,Joe,Wilson,"Alemán, Árabe, Chino, Ruso",Bajo,1,7,7,4,0,1
+119,Pamela,Sanchez,"Chino, Portugués, Español",Medio,4,8,5,10,4,1
+120,Brooke,Harvey,"Árabe, Español, Alemán, Chino",Alto,5,7,1,2,9,3
+121,Robert,Silva,Francés,Alto,5,2,4,10,0,7
+122,Alexandra,Donovan,"Italiano, Portugués, Alemán, Español",Alto,8,9,6,5,2,7
+123,James,Moran,Japonés,Medio,4,7,6,7,10,1
+124,John,Foster,"Portugués, Español",Medio,10,6,1,9,1,5
+125,Emily,Evans,"Italiano, Portugués, Alemán, Árabe",Bajo,9,5,4,8,2,5
+126,Leslie,Walton,Japonés,Bajo,6,2,4,0,8,3
+127,Charles,Ellis,"Inglés, Portugués",Bajo,8,9,0,0,5,4
+128,Yolanda,Ferrell,"Español, Japonés",Alto,7,6,4,10,9,10
+129,Charles,Lewis,"Alemán, Inglés, Español",Medio,4,9,8,8,6,3
+130,Joseph,Mahoney,"Italiano, Árabe, Inglés, Portugués",Bajo,10,10,10,6,0,3
+131,Nicole,Suarez,"Árabe, Alemán, Francés",Alto,6,7,7,5,2,8
+132,Mike,Moore,"Árabe, Italiano, Francés",Bajo,5,1,3,3,7,7
+133,Martha,Warner,"Inglés, Portugués, Árabe",Alto,5,5,7,10,4,1
+134,Cheryl,Archer,"Ruso, Italiano, Portugués",Alto,5,1,0,7,9,10
+135,Destiny,Smith,"Japonés, Portugués, Español",Alto,2,10,8,1,10,9
+136,Lisa,Evans,Chino,Medio,8,6,4,6,4,0
+137,Elizabeth,Mcmillan,"Italiano, Ruso, Alemán",Medio,7,3,3,2,6,7
+138,Dennis,Wilson,"Francés, Alemán, Italiano, Ruso",Bajo,2,10,2,9,5,10
+139,Daniel,Tran,"Alemán, Francés",Alto,2,1,10,10,0,1
+140,Joseph,Jacobs,"Japonés, Ruso",Bajo,5,4,7,6,6,8
+141,Jennifer,Harris,"Alemán, Ruso, Español",Alto,4,8,2,5,5,7
+142,Cynthia,Baker,"Español, Inglés, Ruso, Italiano",Bajo,1,10,3,6,9,6
+143,Tracy,Whitehead,Japonés,Alto,0,8,4,2,6,3
+144,Meghan,Davis,Chino,Bajo,10,7,2,10,8,5
+145,Rodney,Hill,"Francés, Japonés, Español, Italiano",Medio,4,1,6,1,1,10
+146,Adam,Wise,"Japonés, Francés",Alto,0,2,2,2,10,1
+147,Dana,Green,"Árabe, Español",Medio,5,2,3,1,10,5
+148,Joyce,Arnold,Chino,Bajo,10,9,7,3,0,5
+149,Ronald,Smith,"Inglés, Árabe, Ruso",Bajo,9,8,10,4,2,0
+150,Charles,Ware,Portugués,Medio,4,4,6,5,6,3
+151,Rebecca,Gardner,Árabe,Medio,0,7,5,8,6,5
+152,Mary,Aguilar,"Alemán, Portugués",Medio,3,7,3,5,6,9
+153,Earl,Anderson,Español,Bajo,6,4,2,4,1,1
+154,Kyle,Nolan,"Portugués, Alemán, Árabe, Chino",Medio,7,9,7,1,7,3
+155,Laura,Valencia,"Chino, Inglés, Alemán",Alto,10,10,4,7,4,5
+156,Rachel,Clark,"Francés, Ruso, Inglés",Medio,7,9,9,1,3,10
+157,John,Garcia,"Árabe, Inglés, Portugués",Bajo,6,1,8,5,7,1
+158,Kimberly,Henson,Español,Bajo,6,10,8,9,0,5
+159,Richard,Oliver,"Ruso, Portugués, Árabe, Francés",Alto,7,1,5,2,1,7
+160,Eric,Spears,"Chino, Japonés",Alto,7,6,10,9,1,4
+161,Michelle,Cherry,Ruso,Alto,5,9,1,8,10,6
+162,Lisa,Keith,"Japonés, Árabe, Francés",Medio,10,5,4,0,10,7
+163,Angel,Doyle,"Francés, Inglés",Bajo,10,7,1,4,8,0
+164,Martin,Galvan,"Portugués, Chino",Alto,3,3,4,3,1,6
+165,Leah,Shields,"Ruso, Francés, Español, Japonés",Medio,9,7,7,7,10,4
+166,Lisa,Adams,"Japonés, Francés, Italiano, Inglés",Medio,7,9,8,10,2,9
+167,Kristin,Rodriguez,"Español, Portugués, Italiano",Bajo,3,0,8,6,4,5
+168,Monica,Garrison,Chino,Bajo,9,8,4,3,9,10
+169,Jeffrey,Velasquez,"Ruso, Alemán, Inglés, Japonés",Bajo,5,6,9,3,0,9
+170,Steven,Torres,Árabe,Bajo,9,10,4,9,10,4
+171,Laura,Perez,"Español, Portugués, Ruso, Japonés",Bajo,8,3,4,10,5,5
+172,Andrew,Lee,Inglés,Alto,1,1,1,10,6,3
+173,Mark,Lin,Francés,Alto,3,2,10,1,4,3
+174,Tammy,Ramirez,"Italiano, Árabe, Francés",Bajo,1,3,9,5,1,9
+175,Darlene,Ross,"Alemán, Chino",Alto,6,1,2,2,6,5
+176,Tina,Herrera,"Chino, Alemán, Francés, Árabe",Medio,6,8,9,10,9,10
+177,Sheila,Wilson,"Portugués, Árabe",Medio,7,4,5,1,8,7
+178,Tara,White,"Inglés, Español, Árabe, Alemán",Bajo,6,8,5,4,8,9
+179,Sydney,Baker,Alemán,Medio,0,9,10,7,10,9
+180,Daniel,Hamilton,"Ruso, Árabe, Alemán",Bajo,8,4,1,0,10,7
+181,Jessica,Edwards,"Francés, Alemán, Árabe",Bajo,10,5,0,9,3,1
+182,Catherine,Dixon,Ruso,Alto,4,8,1,4,0,7
+183,Paul,Ray,"Ruso, Inglés, Japonés",Bajo,9,7,0,9,2,9
+184,Jonathan,Fletcher,"Árabe, Español, Inglés",Alto,7,3,6,8,5,6
+185,Aaron,Frost,"Ruso, Alemán",Medio,3,6,5,3,1,3
+186,Amanda,Ball,Inglés,Medio,8,3,7,8,4,3
+187,Judy,Lambert,"Alemán, Japonés",Medio,5,10,8,0,1,3
+188,Michael,Jones,"Japonés, Inglés, Alemán, Chino",Alto,8,4,0,4,5,8
+189,Elizabeth,Rivera,"Chino, Árabe",Medio,1,7,7,8,9,8
+190,Lee,Charles,"Inglés, Alemán, Árabe",Bajo,6,5,4,9,6,7
+191,Jennifer,Evans,"Portugués, Alemán",Bajo,1,7,10,7,3,6
+192,Kyle,Ortiz,"Chino, Español, Árabe",Medio,9,9,1,2,6,10
+193,Richard,Phillips,"Español, Ruso, Chino",Alto,1,3,10,6,9,5
+194,David,Fisher,Español,Bajo,1,7,7,7,3,5
+195,Shelby,Byrd,"Inglés, Alemán, Italiano, Francés",Medio,0,10,4,8,9,5
+196,Raven,Gilbert,"Portugués, Árabe, Ruso, Inglés",Alto,10,2,7,3,10,4
+197,Kevin,Kelley,Japonés,Bajo,6,3,5,8,4,0
+198,Aaron,Mitchell,"Alemán, Chino, Japonés, Ruso",Alto,7,1,8,6,9,7
+199,Russell,Carpenter,"Árabe, Francés, Japonés",Medio,4,2,8,2,9,2
+200,Diana,Marshall,Alemán,Medio,10,10,2,8,4,1
+201,Scott,Lewis,Alemán,Bajo,7,8,6,6,4,0
+202,Thomas,Santana,"Ruso, Árabe, Japonés, Chino",Alto,8,8,0,1,0,4
+203,Laura,Jackson,Inglés,Bajo,10,7,9,2,6,1
+204,Christopher,Robertson,"Español, Italiano, Inglés",Medio,7,7,3,8,7,5
+205,Cynthia,Rogers,"Japonés, Portugués, Chino",Alto,4,0,5,3,1,7
+206,Loretta,Potter,"Francés, Ruso",Medio,4,0,1,9,0,8
+207,Emily,Walker,"Italiano, Alemán",Medio,2,6,4,3,0,10
+208,James,Johnson,"Alemán, Ruso",Medio,3,9,6,5,8,1
+209,John,Alvarez,"Árabe, Chino",Medio,0,4,3,4,8,2
+210,Melissa,Jones,"Árabe, Inglés, Portugués, Español",Medio,10,3,10,2,8,10
+211,Robert,Soto,Ruso,Alto,2,4,6,6,9,5
+212,James,Horton,"Italiano, Chino, Portugués, Alemán",Bajo,6,9,7,4,9,1
+213,Troy,Sanchez,"Árabe, Chino, Italiano, Alemán",Medio,4,6,5,3,9,5
+214,Diana,Smith,Portugués,Alto,0,9,6,10,9,6
+215,Karen,Carrillo,"Francés, Inglés, Alemán, Portugués",Medio,3,5,7,8,8,9
+216,Daniel,Coleman,"Francés, Ruso, Chino, Inglés",Medio,1,8,2,2,5,7
+217,Gregory,Rubio,"Español, Italiano, Chino",Medio,5,9,5,4,8,0
+218,April,Williams,"Ruso, Árabe, Portugués",Medio,2,6,5,0,9,8
+219,John,Charles,"Portugués, Inglés, Francés",Alto,1,9,3,7,9,2
+220,Stephen,Solis,Alemán,Bajo,6,0,6,5,1,7
+221,Elizabeth,Travis,"Español, Ruso, Alemán, Chino",Bajo,6,4,1,3,6,10
+222,Caitlin,Dodson,"Ruso, Inglés, Chino, Árabe",Medio,5,5,4,5,2,4
+223,Patricia,Salazar,"Ruso, Chino, Francés",Bajo,10,8,2,2,6,10
+224,Jennifer,Wagner,Inglés,Alto,0,3,4,9,10,3
+225,Maria,Kelley,Japonés,Medio,7,0,10,6,3,1
+226,Phyllis,Manning,"Árabe, Español",Bajo,2,1,4,1,6,10
+227,Thomas,Green,"Chino, Ruso, Japonés, Italiano",Alto,9,3,2,4,4,1
+228,John,Walsh,"Ruso, Francés, Japonés",Bajo,10,2,4,1,4,3
+229,Katie,Boyd,"Francés, Japonés, Ruso",Medio,4,4,5,3,5,3
+230,Courtney,Hill,"Italiano, Ruso",Alto,9,2,6,3,7,4
+231,Chris,Mitchell,"Ruso, Árabe, Inglés, Francés",Medio,5,1,7,0,0,9
+232,Joseph,Flores,"Francés, Italiano, Alemán, Chino",Medio,5,1,5,9,6,9
+233,Amber,Taylor,"Alemán, Japonés",Medio,4,8,5,8,4,9
+234,Jesse,Benson,"Ruso, Italiano, Inglés, Alemán",Medio,10,4,3,6,3,4
+235,Jasmine,Brown,"Chino, Francés, Árabe, Portugués",Alto,8,7,9,8,10,8
+236,Rick,Daniels,"Inglés, Chino, Alemán",Alto,2,2,3,7,1,10
+237,Robert,Clark,"Español, Italiano, Inglés",Bajo,5,7,0,2,1,3
+238,Robert,Stein,"Inglés, Portugués, Árabe, Japonés",Alto,3,4,3,5,7,6
+239,Brandy,Dominguez,Japonés,Medio,7,8,3,10,1,10
+240,Melissa,Cannon,"Alemán, Italiano",Alto,3,10,6,10,8,10
+241,Omar,Smith,Árabe,Alto,4,8,5,0,5,9
+242,Michael,Molina,"Árabe, Inglés",Medio,3,3,2,6,4,0
+243,Melissa,Ashley,"Árabe, Ruso, Italiano",Bajo,4,8,0,7,10,1
+244,Robert,Adkins,"Portugués, Árabe, Francés, Ruso",Alto,8,6,5,1,2,2
+245,Amy,Morrison,"Chino, Español, Japonés, Portugués",Alto,6,4,9,5,9,4
+246,Jeffrey,Robinson,"Ruso, Chino, Italiano, Portugués",Bajo,2,5,1,3,0,3
+247,Ryan,Johnson,"Japonés, Alemán, Inglés",Medio,7,8,10,5,5,1
+248,Matthew,Shelton,Japonés,Medio,1,10,6,3,0,9
+249,Richard,Martin,Inglés,Alto,7,0,6,0,9,5
+250,Tanner,Anderson,Japonés,Bajo,2,3,10,8,4,0
+251,Cindy,Johnson,"Francés, Chino, Alemán",Bajo,10,4,0,2,8,9
+252,Phillip,Elliott,"Árabe, Chino, Portugués, Alemán",Medio,1,8,8,0,7,6
+253,Anthony,Day,"Ruso, Árabe",Medio,6,0,7,4,2,1
+254,Derek,Murray,Portugués,Alto,7,9,3,7,7,5
+255,Brent,Gray,"Alemán, Portugués, Árabe, Chino",Bajo,9,9,0,8,2,8
+256,Jason,Murphy,"Japonés, Ruso",Alto,1,1,1,5,8,6
+257,Kathleen,Gray,Alemán,Medio,10,4,10,7,2,0
+258,Karen,Decker,"Español, Japonés",Bajo,1,0,9,0,3,8
+259,Johnny,Miller,"Alemán, Francés, Español",Medio,0,1,10,4,7,5
+260,Andrew,Ryan,Chino,Alto,7,2,5,5,1,10
+261,Zoe,Bell,"Alemán, Portugués",Medio,6,10,8,7,9,2
+262,Debra,Harrington,"Chino, Árabe, Ruso",Alto,9,2,9,10,2,7
+263,Denise,Webster,"Árabe, Japonés, Francés, Portugués",Bajo,5,4,10,6,5,2
+264,Stefanie,Gonzalez,Japonés,Alto,7,3,8,10,10,4
+265,Andrew,Hernandez,"Ruso, Inglés",Medio,3,5,0,9,0,10
+266,David,Caldwell,"Portugués, Italiano, Inglés",Bajo,10,2,10,10,2,8
+267,Anne,Robinson,"Alemán, Inglés, Portugués, Ruso",Alto,6,6,4,5,8,9
+268,Holly,Wang,Francés,Alto,7,10,4,0,2,4
+269,Gary,Lawson,"Chino, Italiano",Alto,5,0,5,5,8,3
+270,Julie,Wilson,"Inglés, Ruso, Alemán, Español",Medio,7,6,9,4,1,9
+271,Lori,Oconnell,"Árabe, Italiano, Chino",Bajo,6,6,1,6,4,5
+272,Daniel,Johnson,"Francés, Ruso",Alto,9,0,4,7,2,2
+273,Larry,Byrd,Inglés,Alto,0,2,3,6,3,7
+274,Susan,Sanders,"Portugués, Francés, Alemán",Alto,7,8,6,0,9,9
+275,Jennifer,Jones,"Portugués, Italiano, Español",Medio,8,9,9,9,6,6
+276,Hannah,Burton,Alemán,Alto,9,4,4,1,5,9
+277,Curtis,Barton,Francés,Bajo,3,2,2,9,7,1
+278,Melissa,Burke,"Portugués, Inglés",Medio,4,3,2,5,4,6
+279,David,Riggs,Japonés,Alto,0,4,10,6,7,7
+280,Kimberly,Reed,"Japonés, Inglés",Bajo,1,1,8,5,5,4
+281,Ross,Wood,"Italiano, Ruso, Inglés",Bajo,4,3,5,2,8,7
+282,William,Peterson,"Alemán, Inglés, Español, Italiano",Alto,7,4,10,4,9,6
+283,Melissa,Short,"Italiano, Árabe, Francés, Chino",Medio,7,5,8,5,6,7
+284,Daniel,Yu,"Español, Alemán",Medio,4,9,7,6,2,4
+285,Cynthia,Poole,"Inglés, Portugués, Español",Alto,6,2,2,2,0,10
+286,Jasmine,Graham,"Árabe, Alemán, Francés, Ruso",Bajo,8,8,6,4,6,10
+287,Jessica,Sheppard,"Árabe, Francés",Bajo,2,6,10,4,5,4
+288,Joseph,Morton,Japonés,Alto,7,9,5,5,4,9
+289,Amanda,Webb,"Italiano, Español, Chino",Alto,7,9,6,4,4,10
+290,Ryan,Simon,Árabe,Alto,3,5,9,4,2,3
+291,Joseph,Christian,"Portugués, Árabe, Alemán, Francés",Medio,0,2,4,7,2,4
+292,Mariah,Miller,"Inglés, Francés, Portugués, Alemán",Bajo,4,8,8,3,3,10
+293,Nicole,Sanchez,Chino,Alto,1,1,4,4,8,8
+294,Steven,Bishop,"Chino, Japonés, Español, Francés",Medio,7,2,8,3,10,0
+295,Nicholas,Johnson,"Japonés, Chino",Medio,9,7,6,7,5,7
+296,Melissa,White,"Español, Alemán",Alto,8,0,4,3,4,7
+297,Jason,Salinas,Francés,Alto,1,7,1,5,8,8
+298,Matthew,Beard,"Español, Francés",Medio,5,1,5,7,7,0
+299,Jacqueline,Hill,"Portugués, Árabe, Francés",Alto,3,6,3,5,0,4
+300,Alejandro,Vaughan,Árabe,Alto,1,10,2,9,1,8
